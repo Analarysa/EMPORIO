@@ -21,7 +21,7 @@ Postgres como banco de dados.
 FrontEND
 Flutter.
 
-#Desenvolvedores
+# Desenvolvedores
 Ana Larysa Silva Lima
 Daniel Petroni
 Léo da Silva Quallio
