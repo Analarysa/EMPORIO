@@ -23,6 +23,9 @@ Flutter.
 
 # Desenvolvedores
 Ana Larysa Silva Lima
+
 Daniel Petroni
+
 Léo da Silva Quallio
+
 Professor José Matias Lemes Filho
